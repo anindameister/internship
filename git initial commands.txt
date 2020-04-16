@@ -1,0 +1,6 @@
+echo "# internship" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/anindameister/internship.git
+git push -u origin master
