@@ -1,0 +1,31 @@
+[22:53, 5/3/2020] Awenindwo: everyday https://www.hackerrank.com/domains/python
+[22:53, 5/3/2020] Awenindwo: https://stackoverflow.com/questions/35338343/loading-two-images-at-a-time-in-a-loop-using-python-glob
+[22:53, 5/3/2020] Awenindwo: So you could switch to it after a prototype software is made with PyTorch.
+
+Regarding depth estimation, the following is one of the handy repositories. This algorithm is implemented in PyTorch and some of our lab members use this algorithm in their research too.
+https://github.com/JunjH/Revisiting_Single_Depth_Estimation
+[22:53, 5/3/2020] Awenindwo: The reason why I recommended PyTorch last time was that the majority of depth estimation algorithms are implemented in PyTorch. So you could use object detection and depth estimation in the same platform.
+However, as a tool, YOLO is a great choice if you need accurate bounding boxes; So you could switch to it after a prototype software is made with PyTorch.
+
+Regarding depth estimation, the following is one of the handy repositories. This algorithm is implemented in PyTorch and some of our lab members use this algorithm in their research too.
+https://github.com/JunjH/Revisiting_Single_Depth_Estimation
+[22:53, 5/3/2020] Awenindwo: https://www.coursera.org/lecture/convolutional-neural-networks/computer-vision-Ob1nR
+[22:53, 5/3/2020] Awenindwo: pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+[22:53, 5/3/2020] Awenindwo: https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe
+[22:53, 5/3/2020] Awenindwo: https://www.python.org/downloads/release/python-377/
+[22:53, 5/3/2020] Awenindwo: https://www.python.org/downloads/
+[22:53, 5/3/2020] Awenindwo: pip install https://download.pytorch.org/whl/cu101/torch-1.4.0-cp38-cp38-win_amd64.whl
+[22:53, 5/3/2020] Awenindwo: pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+[22:53, 5/3/2020] Awenindwo: https://github.com/pjreddie/darknet/blob/master/data/coco.names
+[22:53, 5/3/2020] Awenindwo: https://drive.google.com/drive/folders/1LezFG5g3BCW6iYaV89B2i64cqEUZD7e0
+[22:53, 5/3/2020] Awenindwo: https://github.com/ultralytics/yolov3
+[22:53, 5/3/2020] Awenindwo: https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+[22:53, 5/3/2020] Awenindwo: https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
+[22:53, 5/3/2020] Awenindwo: https://github.com/tensorflow/models/tree/master/research/object_detection
+[22:53, 5/3/2020] Awenindwo: https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=haswbstatement:P180=Q7378&srnamespace=6&format=json
+[22:53, 5/3/2020] Awenindwo: from IPython.display import Image
+from IPython.core.display import HTML 
+Image(url= "https://github.com/anindameister/computer_vision/blob/master/anindamaulikSIGN.jpg")
+[22:53, 5/3/2020] Awenindwo: from IPython.display import Image
+from IPython.core.display import HTML 
+Image(url="https://octodex.github.com/images/yaktocat.png")

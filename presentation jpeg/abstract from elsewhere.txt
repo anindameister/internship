@@ -1,0 +1,36 @@
+We present YOLO, a new approach to object detection. Prior work on object detection repurposes classifiers to perform detection. Instead, we frame object detection as a regression problem to spatially separated bounding boxes and associated class probabilities. A single neural network predicts bounding boxes and class probabilities directly from full images in one evaluation. Since the whole detection pipeline is a single network, it can be optimized end-to-end directly on detection performance. Our unified architecture is extremely fast. Our base YOLO model processes images in real-time at 45 frames per second. A smaller version of the network, Fast YOLO, processes an astounding 155 frames per second while still achieving double the mAP of other real-time detectors. Compared to state-of-the-art detection systems, YOLO makes more localization errors but is less likely to predict false positives on background. Finally, YOLO learns very general representations of objects. It outperforms other detection methods, including DPM and R-CNN, when generalizing from natural images to other domains like artwork.
+
+Semantic Web is a concept that enables better machine processing of
+information on the Web, by structuring documents written for the Web in
+such a way that they become understandable by machines. This can be used
+for creating more complex applications (intelligent browsers, more
+advanced Web agents), global databases with the data from the Web, reuse
+of information, etc. This tutorial explains all above, using both the
+basic theory and the appropriate examples.
+
+
+         Semantic modeling languages like the Resource Description Framework
+(RDF) and topic maps employ XML syntax to achieve this objective.
+New tools exploit cross domain vocabularies to automatically extract and
+relate the meta information in a new context. Web Ontology languages like
+DAML+OIL extend RDF with richer modeling primitives and provide a
+technological basis to enable the Semantic Web. These concepts are
+explained thru examples and case studies.
+
+
+ <dependency>
+            <groupId>org.rdfhdt</groupId>
+            <artifactId>hdt-java-core</artifactId>
+            <version>2.0-SNAPSHOT</version>
+        </dependency>
+
+        Finally, the logic languages for Semantic Web are described (which
+build on the top of RDF and ontology languages). They, together with
+digital signatures, enable a web of trust, which will have levels of trust
+for its resources and for the rights of access, and will enable
+generating proofs for the actions and resources on the Web.
+
+My work is divided into three parts and the first part of it is implementation of an already existing algorithm for object extraction. The algorithm chosen here, is YOLO(You Only Look Once). This algorithm predicts bounding boxes of objects and class probabilities of the detected objects directly from full images in one evaluation. The second part of my work is designing a semantic web modelling for the extracted data which is a resultant of implementation of YOLO algorithm at this moment. Later YOLO would be combined with another alogorithm to further detect the depth of the detected objects in order to better facilitate the detection of object position. 
+
+
+https://www.researchgate.net/publication/330496549_CSV2RDF_GENERATING_RDF_DATA_FROM_CSV_FILE_USING_SEMANTIC_WEB_TECHNOLOGIES
