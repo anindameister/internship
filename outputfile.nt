@@ -1,0 +1,200 @@
+<http://qanswer.eu/data/datasets/objectPosition/download_(1).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (1).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(1).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(10).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (10).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(10).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(10).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q146> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(10).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q146> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(10).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q146> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(10).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_top> <http://www.wikidata.org/entity/Q37203018> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(10).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q37203018> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(11).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (11).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(11).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(11).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q146> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(11).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q146> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(11).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q146> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(12).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (12).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(12).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(12).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q146> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(12).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q146> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(12).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q146> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(12).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q64573155> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(12).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q64573155> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(12).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q64573155> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(13).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (13).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(13).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(13).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q146> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(13).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q146> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(14).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (14).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(14).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(14).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(14).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(14).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(14).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_left> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(14).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(14).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (15).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_left> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q37542410> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(15).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(16).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (16).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(16).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(16).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(16).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(16).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(16).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(16).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(16).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(17).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (17).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(17).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(17).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(17).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(17).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(17).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(17).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(17).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(17).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(17).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(17).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(18).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (18).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(18).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(18).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(18).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(18).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(18).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q144> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(18).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q144> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(18).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q144> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(19).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (19).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(19).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(19).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(19).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(19).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(19).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(19).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(19).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(2).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (2).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(2).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(2).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(2).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(2).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(2).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(2).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(2).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(3).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (3).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(3).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(3).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(3).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(3).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(3).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(3).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(3).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(4).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (4).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(4).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(4).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(4).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(4).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(5).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (5).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(5).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(5).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(5).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(5).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(6).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (6).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(6).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(6).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(6).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(6).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(7).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (7).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(7).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(7).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(7).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(7).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(7).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_left> <http://www.wikidata.org/entity/Q8004> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(7).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q8004> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(7).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q8004> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(8).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (8).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(8).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(8).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(8).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(8).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(9).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download (9).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download_(9).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(9).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(9).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(9).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q49110> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(9).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(9).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/download_(9).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/download.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "download.jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/download.jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/download.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/download.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://www.w3.org/2000/01/rdf-schema#label> "images (1).jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q43193> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q43193> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q43193> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q43193> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q43193> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q43193> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/images_(1).jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "images.jpg" .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q1420> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/images.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q5> .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_left> <http://www.w3.org/2000/01/rdf-schema#label> "has on the left"@en .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.w3.org/2000/01/rdf-schema#label> "has on the right"@en .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_top> <http://www.w3.org/2000/01/rdf-schema#label> "has on the top"@en .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.w3.org/2000/01/rdf-schema#label> "has on the bottom"@en .
+<http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.w3.org/2000/01/rdf-schema#label> "has in the center"@en .
