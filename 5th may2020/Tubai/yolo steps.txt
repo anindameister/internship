@@ -1,0 +1,6 @@
+﻿step 1: https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe
+old version of python
+step 2:pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+step 3: python detect.py --cfg cfg/yolov3.cfg --weights weights/yolov3.pt --source test --save-txt
+
+https://github.com/ultralytics/yolov3
