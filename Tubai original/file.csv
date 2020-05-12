@@ -1,0 +1,441 @@
+object_1,relations,object_2,image_Name
+cat,is close to,cup,download (10).jpg
+cup,is far from,cat,download (10).jpg
+cat,is far from,dining table,download (12).jpg
+dining table,is close to,cat,download (12).jpg
+elephant,is far from,elephant,download (14).jpg
+elephant,is close to,elephant,download (14).jpg
+elephant,is close to,cow,download (15).jpg
+cow,is far from,elephant,download (15).jpg
+elephant,is far from,elephant,download (15).jpg
+elephant,is close to,elephant,download (15).jpg
+elephant,is close to,cow,download (15).jpg
+cow,is far from,elephant,download (15).jpg
+elephant,is close to,cow,download (15).jpg
+cow,is far from,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is close to,elephant,download (15).jpg
+elephant,is far from,elephant,download (15).jpg
+elephant,is close to,elephant,download (15).jpg
+elephant,is far from,elephant,download (15).jpg
+elephant,is close to,elephant,download (15).jpg
+elephant,is far from,elephant,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+cow,is close to,cow,download (15).jpg
+cow,is far from,cow,download (15).jpg
+cow,is close to,cow,download (15).jpg
+cow,is far from,cow,download (15).jpg
+cow,is close to,cow,download (15).jpg
+cow,is far from,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+cow,is far from,elephant,download (15).jpg
+elephant,is close to,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+elephant,is close to,cow,download (15).jpg
+cow,is far from,elephant,download (15).jpg
+elephant,is close to,cow,download (15).jpg
+cow,is far from,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is close to,elephant,download (15).jpg
+elephant,is far from,elephant,download (15).jpg
+elephant,is close to,elephant,download (15).jpg
+elephant,is far from,elephant,download (15).jpg
+elephant,is close to,elephant,download (15).jpg
+elephant,is far from,elephant,download (15).jpg
+cow,is close to,cow,download (15).jpg
+cow,is far from,cow,download (15).jpg
+cow,is close to,cow,download (15).jpg
+cow,is far from,cow,download (15).jpg
+cow,is far from,elephant,download (15).jpg
+elephant,is close to,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+cow,is close to,cow,download (15).jpg
+cow,is far from,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+cow,is close to,elephant,download (15).jpg
+elephant,is far from,cow,download (15).jpg
+elephant,is close to,elephant,download (15).jpg
+elephant,is far from,elephant,download (15).jpg
+elephant,is close to,elephant,download (15).jpg
+elephant,is far from,elephant,download (15).jpg
+elephant,is close to,elephant,download (15).jpg
+elephant,is far from,elephant,download (15).jpg
+elephant,is close to,elephant,download (16).jpg
+elephant,is far from,elephant,download (16).jpg
+elephant,is close to,car,download (17).jpg
+car,is far from,elephant,download (17).jpg
+elephant,is far from,elephant,download (17).jpg
+elephant,is close to,elephant,download (17).jpg
+car,is close to,elephant,download (17).jpg
+elephant,is far from,car,download (17).jpg
+car,is close to,dog,download (18).jpg
+dog,is far from,car,download (18).jpg
+elephant,is close to,car,download (19).jpg
+car,is far from,elephant,download (19).jpg
+car,is close to,car,download (2).jpg
+car,is far from,car,download (2).jpg
+person,is close to,car,download (3).jpg
+car,is far from,person,download (3).jpg
+bus,is close to,traffic light,download (7).jpg
+traffic light,is far from,bus,download (7).jpg
+bus,is close to,person,download (9).jpg
+person,is far from,bus,download (9).jpg
+elephant,is far from,truck,images (1).jpg
+truck,is close to,elephant,images (1).jpg
+elephant,is close to,car,images (1).jpg
+car,is far from,elephant,images (1).jpg
+elephant,is close to,truck,images (1).jpg
+truck,is far from,elephant,images (1).jpg
+elephant,is close to,car,images (1).jpg
+car,is far from,elephant,images (1).jpg
+truck,is close to,car,images (1).jpg
+car,is far from,truck,images (1).jpg
+truck,is close to,truck,images (1).jpg
+truck,is far from,truck,images (1).jpg
+truck,is close to,car,images (1).jpg
+car,is far from,truck,images (1).jpg
+car,is close to,truck,images (1).jpg
+truck,is far from,car,images (1).jpg
+car,is far from,car,images (1).jpg
+car,is close to,car,images (1).jpg
+truck,is close to,car,images (1).jpg
+car,is far from,truck,images (1).jpg
+person,is close to,car,images.jpg
+car,is far from,person,images.jpg
+person,is close to,elephant,images.jpg
+elephant,is far from,person,images.jpg
+person,is far from,person,images.jpg
+person,is close to,person,images.jpg
+person,is close to,person,images.jpg
+person,is far from,person,images.jpg
+person,is close to,person,images.jpg
+person,is far from,person,images.jpg
+car,is close to,elephant,images.jpg
+elephant,is far from,car,images.jpg
+car,is close to,person,images.jpg
+person,is far from,car,images.jpg
+car,is close to,person,images.jpg
+person,is far from,car,images.jpg
+car,is close to,person,images.jpg
+person,is far from,car,images.jpg
+elephant,is close to,person,images.jpg
+person,is far from,elephant,images.jpg
+elephant,is close to,person,images.jpg
+person,is far from,elephant,images.jpg
+elephant,is close to,person,images.jpg
+person,is far from,elephant,images.jpg
+person,is close to,person,images.jpg
+person,is far from,person,images.jpg
+person,is close to,person,images.jpg
+person,is far from,person,images.jpg
+person,is close to,person,images.jpg
+person,is far from,person,images.jpg
+cat,overlaps,cup,download (10).jpg
+cup,doesn't overlap,cat,download (10).jpg
+cat,overlaps,dining table,download (12).jpg
+dining table,doesn't overlap,cat,download (12).jpg
+elephant,overlaps,elephant,download (14).jpg
+elephant,doesn't overlap,elephant,download (14).jpg
+elephant,doesn't overlap,cow,download (15).jpg
+cow,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,cow,download (15).jpg
+cow,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,cow,download (15).jpg
+cow,overlaps,elephant,download (15).jpg
+elephant,overlaps,cow,download (15).jpg
+cow,doesn't overlap,elephant,download (15).jpg
+elephant,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,elephant,download (15).jpg
+cow,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,cow,download (15).jpg
+cow,doesn't overlap,cow,download (15).jpg
+cow,overlaps,cow,download (15).jpg
+cow,doesn't overlap,cow,download (15).jpg
+cow,overlaps,cow,download (15).jpg
+cow,doesn't overlap,cow,download (15).jpg
+cow,overlaps,cow,download (15).jpg
+cow,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,cow,download (15).jpg
+cow,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,cow,download (15).jpg
+cow,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,cow,download (15).jpg
+elephant,doesn't overlap,cow,download (15).jpg
+cow,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,cow,download (15).jpg
+cow,overlaps,elephant,download (15).jpg
+elephant,overlaps,cow,download (15).jpg
+cow,doesn't overlap,elephant,download (15).jpg
+elephant,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,elephant,download (15).jpg
+cow,doesn't overlap,cow,download (15).jpg
+cow,overlaps,cow,download (15).jpg
+cow,doesn't overlap,cow,download (15).jpg
+cow,overlaps,cow,download (15).jpg
+cow,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,cow,download (15).jpg
+cow,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,cow,download (15).jpg
+cow,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,cow,download (15).jpg
+cow,doesn't overlap,cow,download (15).jpg
+cow,overlaps,cow,download (15).jpg
+cow,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,cow,download (15).jpg
+cow,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,cow,download (15).jpg
+cow,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,cow,download (15).jpg
+cow,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,cow,download (15).jpg
+cow,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,cow,download (15).jpg
+cow,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,cow,download (15).jpg
+elephant,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,elephant,download (15).jpg
+elephant,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,elephant,download (15).jpg
+elephant,overlaps,elephant,download (15).jpg
+elephant,doesn't overlap,elephant,download (15).jpg
+elephant,overlaps,elephant,download (16).jpg
+elephant,doesn't overlap,elephant,download (16).jpg
+elephant,overlaps,car,download (17).jpg
+car,doesn't overlap,elephant,download (17).jpg
+elephant,overlaps,elephant,download (17).jpg
+elephant,doesn't overlap,elephant,download (17).jpg
+car,overlaps,elephant,download (17).jpg
+elephant,doesn't overlap,car,download (17).jpg
+car,overlaps,dog,download (18).jpg
+dog,doesn't overlap,car,download (18).jpg
+elephant,overlaps,car,download (19).jpg
+car,doesn't overlap,elephant,download (19).jpg
+car,doesn't overlap,car,download (2).jpg
+car,overlaps,car,download (2).jpg
+person,doesn't overlap,car,download (3).jpg
+car,overlaps,person,download (3).jpg
+bus,doesn't overlap,traffic light,download (7).jpg
+traffic light,overlaps,bus,download (7).jpg
+bus,doesn't overlap,person,download (9).jpg
+person,overlaps,bus,download (9).jpg
+elephant,overlaps,truck,images (1).jpg
+truck,doesn't overlap,elephant,images (1).jpg
+elephant,overlaps,car,images (1).jpg
+car,doesn't overlap,elephant,images (1).jpg
+elephant,overlaps,truck,images (1).jpg
+truck,doesn't overlap,elephant,images (1).jpg
+elephant,overlaps,car,images (1).jpg
+car,doesn't overlap,elephant,images (1).jpg
+truck,overlaps,car,images (1).jpg
+car,doesn't overlap,truck,images (1).jpg
+truck,overlaps,truck,images (1).jpg
+truck,doesn't overlap,truck,images (1).jpg
+truck,overlaps,car,images (1).jpg
+car,doesn't overlap,truck,images (1).jpg
+car,overlaps,truck,images (1).jpg
+truck,doesn't overlap,car,images (1).jpg
+car,overlaps,car,images (1).jpg
+car,doesn't overlap,car,images (1).jpg
+truck,overlaps,car,images (1).jpg
+car,doesn't overlap,truck,images (1).jpg
+person,overlaps,car,images.jpg
+car,doesn't overlap,person,images.jpg
+person,overlaps,elephant,images.jpg
+elephant,doesn't overlap,person,images.jpg
+person,doesn't overlap,person,images.jpg
+person,overlaps,person,images.jpg
+person,doesn't overlap,person,images.jpg
+person,overlaps,person,images.jpg
+person,doesn't overlap,person,images.jpg
+person,overlaps,person,images.jpg
+car,overlaps,elephant,images.jpg
+elephant,doesn't overlap,car,images.jpg
+car,doesn't overlap,person,images.jpg
+person,overlaps,car,images.jpg
+car,overlaps,person,images.jpg
+person,doesn't overlap,car,images.jpg
+car,overlaps,person,images.jpg
+person,doesn't overlap,car,images.jpg
+elephant,doesn't overlap,person,images.jpg
+person,overlaps,elephant,images.jpg
+elephant,doesn't overlap,person,images.jpg
+person,overlaps,elephant,images.jpg
+elephant,doesn't overlap,person,images.jpg
+person,overlaps,elephant,images.jpg
+person,doesn't overlap,person,images.jpg
+person,overlaps,person,images.jpg
+person,doesn't overlap,person,images.jpg
+person,overlaps,person,images.jpg
+person,overlaps,person,images.jpg
+person,doesn't overlap,person,images.jpg
+cat,is in the bottom of,cup,download (10).jpg
+cup,is in the top of,cat,download (10).jpg
+elephant,is in the bottom of,elephant,download (14).jpg
+elephant,is in the top of,elephant,download (14).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,elephant,download (15).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the bottom of,cow,download (15).jpg
+cow,is in the top of,elephant,download (15).jpg
+elephant,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,elephant,download (15).jpg
+elephant,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,elephant,download (15).jpg
+elephant,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,elephant,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,cow,download (15).jpg
+cow,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,cow,download (15).jpg
+cow,is in the bottom of,cow,download (15).jpg
+cow,is in the top of,cow,download (15).jpg
+cow,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,cow,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,cow,download (15).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,elephant,download (15).jpg
+cow,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,cow,download (15).jpg
+cow,is in the bottom of,cow,download (15).jpg
+cow,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,cow,download (15).jpg
+cow,is in the bottom of,cow,download (15).jpg
+cow,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,cow,download (15).jpg
+cow,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,cow,download (15).jpg
+cow,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,cow,download (15).jpg
+cow,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,cow,download (15).jpg
+elephant,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,elephant,download (15).jpg
+elephant,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,elephant,download (15).jpg
+elephant,is in the bottom of,elephant,download (15).jpg
+elephant,is in the top of,elephant,download (16).jpg
+elephant,is in the bottom of,elephant,download (16).jpg
+elephant,is in the top of,car,download (17).jpg
+car,is in the bottom of,elephant,download (17).jpg
+elephant,is in the top of,elephant,download (17).jpg
+elephant,is in the bottom of,elephant,download (17).jpg
+car,is in the bottom of,elephant,download (17).jpg
+elephant,is in the top of,car,download (17).jpg
+car,is in the bottom of,dog,download (18).jpg
+dog,is in the top of,car,download (18).jpg
+elephant,is in the top of,car,download (19).jpg
+car,is in the bottom of,elephant,download (19).jpg
+car,is in the bottom of,car,download (2).jpg
+car,is in the top of,car,download (2).jpg
+person,is in the top of,car,download (3).jpg
+car,is in the bottom of,person,download (3).jpg
+bus,is in the bottom of,traffic light,download (7).jpg
+traffic light,is in the top of,bus,download (7).jpg
+bus,is in the top of,person,download (9).jpg
+person,is in the bottom of,bus,download (9).jpg
+elephant,is in the top of,truck,images (1).jpg
+truck,is in the bottom of,elephant,images (1).jpg
+elephant,is in the top of,car,images (1).jpg
+car,is in the bottom of,elephant,images (1).jpg
+elephant,is in the top of,truck,images (1).jpg
+truck,is in the bottom of,elephant,images (1).jpg
+elephant,is in the top of,car,images (1).jpg
+car,is in the bottom of,elephant,images (1).jpg
+truck,is in the top of,car,images (1).jpg
+car,is in the bottom of,truck,images (1).jpg
+truck,is in the top of,truck,images (1).jpg
+truck,is in the bottom of,truck,images (1).jpg
+truck,is in the top of,car,images (1).jpg
+car,is in the bottom of,truck,images (1).jpg
+car,is in the bottom of,truck,images (1).jpg
+truck,is in the top of,car,images (1).jpg
+car,is in the bottom of,car,images (1).jpg
+car,is in the top of,car,images (1).jpg
+truck,is in the top of,car,images (1).jpg
+car,is in the bottom of,truck,images (1).jpg
+person,is in the bottom of,car,images.jpg
+car,is in the top of,person,images.jpg
+person,is in the bottom of,elephant,images.jpg
+elephant,is in the top of,person,images.jpg
+person,is in the bottom of,person,images.jpg
+person,is in the top of,person,images.jpg
+person,is in the bottom of,person,images.jpg
+person,is in the top of,person,images.jpg
+person,is in the bottom of,person,images.jpg
+person,is in the top of,person,images.jpg
+car,is in the bottom of,elephant,images.jpg
+elephant,is in the top of,car,images.jpg
+car,is in the top of,person,images.jpg
+person,is in the bottom of,car,images.jpg
+car,is in the top of,person,images.jpg
+person,is in the bottom of,car,images.jpg
+car,is in the top of,person,images.jpg
+person,is in the bottom of,car,images.jpg
+elephant,is in the top of,person,images.jpg
+person,is in the bottom of,elephant,images.jpg
+elephant,is in the top of,person,images.jpg
+person,is in the bottom of,elephant,images.jpg
+elephant,is in the top of,person,images.jpg
+person,is in the bottom of,elephant,images.jpg
+person,is in the bottom of,person,images.jpg
+person,is in the top of,person,images.jpg
+person,is in the bottom of,person,images.jpg
+person,is in the top of,person,images.jpg
+person,is in the bottom of,person,images.jpg
+person,is in the top of,person,images.jpg
